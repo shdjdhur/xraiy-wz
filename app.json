@@ -1,13 +1,13 @@
 {
-  "name": "项目名称",
-  "description": "项目名称",
+  "name": "xraiy-wz",
+  "description": "xraiy-wz",
   "keywords": [
     "VMess VLESS"
   ],
   "env": {
     "PROTOCOL": {
       "description": "协议VMess或VLESS，请填小写的vmess或vless",
-      "value": "vmess",
+      "value": "vless",
       "required": true
     },
     "UUID": {
@@ -21,8 +21,8 @@
       "required": true
     }
   },
-  "website": "https://github.com/用户名/项目名称",
-  "repository": "https://github.com/用户名/项目名称",
+  "website": "https://github.com/JohGeorge/xraiy-wz",
+  "repository": "https://github.com/JohGeorge/xraiy-wz",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
