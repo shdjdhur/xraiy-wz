@@ -11,7 +11,7 @@
       "required": true
     },
     "UUID": {
-      "description": "可以使用终端输入命令 uuidgen 生成。",
+      "description": "可以使用终端输入命令 uuidgen 生成",
       "value": "",
       "required": false
     },
