@@ -2,16 +2,16 @@
   "name": "xraiy-wz",
   "description": "xraiy-wz",
   "keywords": [
-    "VMess VLESS"
+    "project"
   ],
   "env": {
     "PROTOCOL": {
-      "description": "协议VMess或VLESS，请填小写的vmess或vless",
+      "description": "请填小写的vless",
       "value": "vless",
       "required": true
     },
     "UUID": {
-      "description": "用户的主ID",
+      "description": "UUID",
       "value": "",
       "required": false
     },
