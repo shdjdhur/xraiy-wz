@@ -1,1 +1,1 @@
-[![]](https://heroku.com/deploy?template=https://github.com/JohGeorge/xraiy-wz.git)
+[xraiy-wz](https://heroku.com/deploy?template=https://github.com/JohGeorge/xraiy-wz.git)
