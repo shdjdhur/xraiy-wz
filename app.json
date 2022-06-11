@@ -1,6 +1,6 @@
 {
-  "name": "xraiy-wz",
-  "description": "xraiy-wz",
+  "name": "shdjdhur",
+  "description": "shdjdhur",
   "keywords": [
     "project"
   ],
@@ -21,8 +21,8 @@
       "required": true
     }
   },
-  "website": "https://github.com/JohGeorge/xraiy-wz",
-  "repository": "https://github.com/JohGeorge/xraiy-wz",
+  "website": "https://github.com/JohGeorge/shdjdhur",
+  "repository": "https://github.com/JohGeorge/shdjdhur",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
